@@ -37,7 +37,11 @@ def get():
 
     ]
 
+<<<<<<< Updated upstream
     return coasters[1]
+=======
+    return coasters[2]
+>>>>>>> Stashed changes
 
     #TODO: use random.choice instead
     #return random.choice(coaster)
